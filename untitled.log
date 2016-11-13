@@ -1,0 +1,2 @@
+**starting the model**
+Error: There is no video device called '/dev/video0'. System returned (2): No such file or directory. Make sure that you specified the correct video device name.
